@@ -7,7 +7,7 @@ module.exports = {
             maxWidth: {
                 container: '76.25rem',
                 content: '58.75rem',
-                sidebar: '24.75rem',
+                sidebar: '25.75rem',
                 mobilemenu: '13rem',
                 sectionTitle: '37rem',
                 '50rem': '50rem',
